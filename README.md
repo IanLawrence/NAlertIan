@@ -1,5 +1,15 @@
 This is the N-Alert application
 
-Should build with:
+- make sure you have android sdk r11 or higher installed
 
-sencha app build package
+- install sencha cmd http://www.sencha.com/products/sencha-cmd/download
+
+- clone project
+
+- run following command inside project folder: 
+
+sencha app build native
+
+
+
+You will find apk in build folder
