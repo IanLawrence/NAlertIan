@@ -1,0 +1,209 @@
+.x-toolbar-filter-bar {
+    opacity: 0.95;
+    color: white;
+    background-color: #4e4e4e;
+    border-bottom: none !important;
+}
+.bottom {
+    border: 0 !important;
+    padding: 0 !important;
+    height: 70px;
+}
+.filters {
+    position: absolute;
+    height: 60px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.filters .filter {
+    height: 100px
+}
+
+.x-button-filterBtn {
+    background-color: initial !important;
+    background-image: initial !important;
+    border: 0 !important;
+    max-width: 80%;
+}
+.x-footer-title {
+    color: white;
+    text-align: left;
+    font-size: 13pt;
+}
+.x-footer-bar {
+    color: #a9a9a9;
+    font-size: 13pt;
+}
+.x-button-filterBtn .x-button-icon {
+    color: white;
+    font-size: 16pt;
+}
+
+.x-button-filterBtn.x-button-pressing .x-button-icon {
+    color: black;
+}
+.x-toolbar-nalert .x-innerhtml {
+    color: white;
+}
+.x-toolbar-nalert {
+    background-color: #4e4e4e;
+}
+
+.x-list-item .x-innerhtml {
+    padding: 0 !important;
+}
+
+.fmd {
+    color: #c40001;
+    font-weight: bold;
+}
+.x-alert-title {
+    word-break: break-all;
+    font-size: 16pt;
+    margin-bottom: 5px;
+}
+.x-alert-footer {
+    text-transform: uppercase;
+    font-size: 12pt;
+    color: #818181;
+}
+.x-alert {
+    background-color: white;
+    height: 100px;
+}
+.x-alert-inner {
+    padding: 15px;
+    padding-top: 25px;
+}
+.x-filter {
+    background-color: #4e4e4e;
+    height: 60px;
+    border: 0 !important;
+}
+.x-filter-select .x-filter ,  .filter-list {
+    background-color: #808080;
+}
+.filter-list .x-list-item {
+    border: 0 !important;
+}
+.x-filter-inner {
+    padding: 15px;
+    padding-top: 20px;
+}
+.x-filters-title {
+    color: white;
+    font-size: 16pt;
+}
+.x-webkit .x-button-back, .x-webkit .x-toolbar .x-button-back {
+    display: none !important;
+}
+.x-button-filterBar {
+    height: 70px;
+    width: 50%;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-image: none !important;
+    border: 1px solid #848484 !important;
+    webkit-border-radius: 0em;
+    -moz-border-radius: 0em;
+    -ms-border-radius: 0em;
+    -o-border-radius: 0em;
+    border-radius: 0em;
+
+}
+.x-button-select {
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-image: none !important;
+    border: 0 !important;
+    background-color: white;
+    webkit-border-radius: 0em;
+    -moz-border-radius: 0em;
+    -ms-border-radius: 0em;
+    -o-border-radius: 0em;
+    border-radius: 0em;
+}
+.x-button-select .x-button-label {
+    text-align: left;
+    margin-left: 10px;
+}
+.x-button-filterBar .x-button-label {
+    color: white;
+    text-transform: uppercase;
+
+    font-size: 16pt !important;
+}
+.apply {
+    background-color: #33744a !important;
+}
+.cancel {
+    background-color: #848484 !important;
+}
+.off .x-button-select {
+    height: 60px;
+    border-bottom: 1px solid #848484 !important;
+
+}
+.on .x-button-select {
+    height: 15%;
+    border-bottom: 0 !important;
+}
+.off .x-checkbox-panel {
+    display: none !important;
+}
+.on {
+    height: 60%;
+}
+.on .x-checkbox-panel {
+    display: block !important;
+    border-bottom: 1px solid #848484 !important;
+    height: 100%;
+}
+.x-container.x-field-checkbox {
+    float: left;
+}
+.x-filter-form .x-inner.x-form-inner.x-scroll-scroller-vertical.x-scroll-scroller {
+    background-color: white;
+}
+.x-filter-form .x-scroll-container {
+    background-color: white;
+}
+.slide-check-box .x-form-label {
+    background-color: white;
+}
+.x-field-checkbox .x-field-mask::after, .x-field-radio .x-field-mask::after {
+    height: 30px;
+    top: 6px;
+    width: 30px;
+    color: #ddd;
+    border: 2px solid;
+}
+.x-checkmark-base, .x-field-checkbox .x-field-mask::after, .x-field-radio .x-field-mask::after, .x-select-overlay .x-item-selected.x-list-item::after {
+    line-height: 1em;
+    content: '';
+}
+.x-input-el:checked+.x-field-mask::after {
+    color: black;
+    content: '3';
+}
+.filter-list .x-dock.x-dock-vertical.x-sized {
+    background-color: #4e4e4e;
+}
+.save-text-filed {
+    background-color: #4e4e4e;
+    border: 2px solid #848484;
+    margin: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+.save-text-filed .x-input-el.x-form-field.x-input-text {
+    background-color: #4e4e4e;
+}
+.date-select {
+    height: 60px;
+    border-bottom: 1px solid #848484 !important;
+
+}
